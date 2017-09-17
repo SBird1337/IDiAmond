@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="iso-8859-15"?>
+<sigfile>
+  <binary>
+    <id>EF701840B8B143F3</id>
+    <version>
+      <size>0x000000000180FFFF</size>
+      <userdefinedname>pkmn_diamond_u.nds</userdefinedname>
+      <signatures/>
+      <xrefs>
+        <xref offset="0x0000000002000000">E57B77FD553AD434</xref>
+        <xref offset="0x00000000037F8000">1C0EB8A98FDD862D</xref>
+        <xref offset="0x0000000003800000">2DD52CF1ED69DEF0</xref>
+      </xrefs>
+      <matchingsystem>
+        <address>0000000000000000</address>
+        <equipment/>
+        <os>None</os>
+      </matchingsystem>
+    </version>
+  </binary>
+</sigfile>
